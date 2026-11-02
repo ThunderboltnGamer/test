@@ -72,3 +72,8 @@ Expand-Archive $out -DestinationPath "C:\Users\thund\Downloads\NEW"
   configuration and private credentials.
 - The release assets are split only because of GitHub's size limits.
 - Individual part hashes are in `MANIFEST.sha256` in the release assets.
+
+## Fortnite 4.5 build
+
+The complete 4.5 build is split under the ortnite-45-build release. See [FORTNITE_45_BUILD.md](FORTNITE_45_BUILD.md).
+
